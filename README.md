@@ -1,9 +1,9 @@
 
-# :alien: Space-Invaders :alien:
+# :alien::trophy: Space-Invaders :trophy::alien:
 
-### :space_invader: Space Invaders is 2D game made using Python and Pygame. :space_invader:
+## :space_invader: Space Invaders is 2D game made using :snake: Python and Pygame. :space_invader:
 
-:video_game: **Play the Game in your system by following the below steps** :video_game:
+### :video_game: **Play the Game in your system by following the below steps** :video_game:
 
 1. `Fork and clone the project`  :fork_and_knife: 
 2. `Install Pygame in your system`
