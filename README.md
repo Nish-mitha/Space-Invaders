@@ -1,3 +1,4 @@
+![Header](./demo.gif)
 # Space-Invaders
 
 ### Space Invaders is 2D game made using Python and Pygame.
