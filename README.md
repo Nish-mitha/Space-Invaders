@@ -1,3 +1,4 @@
+![Header](./assets/images/demo.gif)
 
 # :alien::trophy: Space-Invaders :trophy::alien:
 
